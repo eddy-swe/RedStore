@@ -1,4 +1,4 @@
-# The RedStore E-commerce Platform - A simple HTML/CSS/JS based e-commerce platform
+# The RedStore E-commerce Platform - HTML/CSS/JS based
 The RedStore E-commerce Platform is a simple and lightweight e-commerce solution built using HTML, CSS, and JavaScript. It provides a basic structure for an online store, allowing users to browse products, add them to a shopping cart, and proceed to checkout.
 
 ## Features
@@ -25,7 +25,7 @@ To get started with the RedStore E-commerce Platform, follow these steps:
 You can customize the platform by modifying the HTML, CSS, and JavaScript files. Here are some suggestions for customization:
 - Add more products to the product listing.
 - Enhance the styling by modifying the CSS.
-- Implement additional features such as user authentication, order history, or payment processing (note: this will require back-end development).
+- Implement additional features such as user authentication, order history, or payment processing (back-end development).
 
 ## Contributing
 Contributions to the RedStore E-commerce Platform are welcome! If you have any ideas for improvements
