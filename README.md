@@ -8,12 +8,7 @@ The RedStore E-commerce Platform is a simple and lightweight e-commerce solution
 - Simple checkout process (note: this is a front-end implementation and does not include payment processing)
 
 ## Live Demo
-GitHub Pages: [RedStore E-commerce Platform](https://your-github-username.github.io/redstore-ecommerce-platform/)
-
-## Screenshots
-- Landing Page: ![Landing Page](screenshots/landing-page.png)
-- Product Listing: ![Product Listing](screenshots/product-listing.png)
-- Shopping Cart: ![Shopping Cart](screenshots/shopping-cart.png)
+GitHub Pages: [RedStore E-commerce Platform](https://eddy-swe.github.io/RedStore/)
 
 ## Getting Started
 To get started with the RedStore E-commerce Platform, follow these steps:
